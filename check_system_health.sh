@@ -1,5 +1,3 @@
-
-
 log_file="system_health.log"
 timestamp=$(date "+%Y-%m-%d %H:%M:%S")
 
